@@ -1,0 +1,2 @@
+class CannotParseTodo(Exception):
+    pass

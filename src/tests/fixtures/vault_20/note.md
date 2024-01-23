@@ -1,0 +1,7 @@
+---
+aliases: [chords,]
+---
+
+
+
+awojdhjsngf
